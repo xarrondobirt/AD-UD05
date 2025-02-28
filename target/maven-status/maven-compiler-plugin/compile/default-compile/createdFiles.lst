@@ -1,0 +1,8 @@
+eus\birt\dam\controller\ArtistController.class
+eus\birt\dam\repository\ArtistRepository.class
+eus\birt\dam\domain\Album.class
+eus\birt\dam\controller\MainController.class
+eus\birt\dam\Ud5Te01Application.class
+eus\birt\dam\domain\Artist.class
+eus\birt\dam\controller\AlbumController.class
+eus\birt\dam\repository\AlbumRepository.class

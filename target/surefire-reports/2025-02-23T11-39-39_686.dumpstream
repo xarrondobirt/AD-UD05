@@ -1,0 +1,5 @@
+# Created at 2025-02-23T11:39:39.859
+Boot Manifest-JAR contains absolute paths in classpath 'D:\DAM\AD\2025\UD05\MusicDB\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
